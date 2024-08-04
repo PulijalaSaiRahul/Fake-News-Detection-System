@@ -1,16 +1,20 @@
-# GlobalEduHub: Empowering Students with Reliable Information
+# FactIT: Empowering Tech Users with Reliable Information
 
-Welcome to GlobalEduHub, an advanced solution developed to transform and fully mobilize the student experience at the University of South Florida System.
+Welcome to FactIT
 
 ## Problem Statement
 
-The University of South Florida System, serving nearly 48,000 students annually, faced the challenge of managing a growing number of applications. This hindered the delivery of new capabilities, prompting the need for a low-code, AI-driven platform. USF IT aimed to accelerate delivery while transforming the student experience.
+Design and develop a technological solution/software tool for Tracking & 
+Tracing Fake News and its origin using official sources as the input filter. The 
+solution should have a mechanism to mitigate the impact of the spread of 
+Fake News by auto-populating the fake news spreaders’ inboxes with the 
+official/authenticated news content.
 
 ## Project Features
 
 ### Intelligent Information Filtering
 
-GlobalEduHub allows students to filter information by day, time, and region, making educational content more accessible and relevant.
+FactIT allows users to filter information by day, time, and region, making educational content more accessible and relevant.
 
 ### Interactive Chatbot Guidance
 
@@ -18,15 +22,15 @@ A user-friendly chatbot guides students through the application, providing assis
 
 ### News Veracity Assessment
 
-Leveraging Generative AI, Machine Learning, and Deep Learning models, GlobalEduHub determines the authenticity of news articles, educating students on distinguishing between true and false information.
+Leveraging Generative AI, Machine Learning, and Deep Learning models, FactIT determines the authenticity of news articles, educating users on distinguishing between true and false information.
 
 ### Educational Link References
 
-For each verified news article, GlobalEduHub provides links to credible sources, empowering students to follow a study path based on reliable information.
+For each verified news article, FactIT provides links to credible sources, empowering students to follow a study path based on reliable information.
 
 ### Auto-Population for Quality Education
 
-The auto-populating feature allows students to automatically share verified news, reducing the spread of misinformation and elevating the overall quality of education.
+The auto-populating feature allows users to automatically share verified news, reducing the spread of misinformation and elevating the overall quality of education.
 
 ## Tools Used
 
@@ -57,7 +61,7 @@ The auto-populating feature allows students to automatically share verified news
 
 ![Entering News](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_1.png?raw=true)
 
-Users can enter the news they want to verify. GlobalTruthHub processes the entered news and provides an assessment of its authenticity, enriching the quality of the dataset.
+Users can enter the news they want to verify. FactIT processes the entered news and provides an assessment of its authenticity, enriching the quality of the dataset.
 
 ### 2. Entry Point
 
@@ -69,19 +73,19 @@ The entry point allows users to input news articles into the system.
 
 ![Verifying News](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_3.png?raw=true)
 
-GlobalTruthHub evaluates the entered news, indicating whether it is true or false. It also provides information and credibility details, enhancing user trust in the information.
+FactIT evaluates the entered news, indicating whether it is true or false. It also provides information and credibility details, enhancing user trust in the information.
 
 ### 4. News Feed
 
 ![News Feed](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_4.png?raw=true)
 
-Students can access a curated news feed enriched with verified information for their study purposes.
+Users can access a curated news feed enriched with verified information for their study purposes.
 
 ### 5. Date and Region Filtering
 
 ![Filtering Options](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_5.png?raw=true)
 
-GlobalTruthHub provides options to filter the news feed based on date and region, tailoring the information to specific student requirements.
+FactIT provides options to filter the news feed based on date and region, tailoring the information to specific user requirements.
 
 ## What Makes This Project Special
 
@@ -89,19 +93,19 @@ GlobalTruthHub provides options to filter the news feed based on date and region
 
 ![Interactive Features](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss7.jpg?raw=true)
 
-GlobalTruthHub comes with several distinctive features that set it apart from other education hubs and resources.
+FactIT comes with several distinctive features that set it apart from other education hubs and resources.
 
 ### Chat Bot Assistance
 
 ![Chat Bot](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss8.jpg?raw=true)
 
-The project includes an interactive chatbot designed to assist students in understanding the application. If a student is confused, the chatbot provides guidance, enhancing the overall user experience.
+The project includes an interactive chatbot designed to assist users in understanding the application. If a user is confused, the chatbot provides guidance, enhancing the overall user experience.
 
 ### Auto-Populating Feature
 
 ![Auto-Populating Feature](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss9.jpg?raw=true)
 
-GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
+FactIT introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
 
 ### Focus on Natural Language Processing (NLP)
 
@@ -147,18 +151,15 @@ Users can customize the project by modifying the Bard API key. In case users enc
 - **Database Integration:** Future plans include connecting the project to a database for data storage and retrieval.
 - **Power BI Integration:** Explore options for enhancing interactivity by integrating the project with Power BI.
 
-## Contact Information
-
-For any inquiries or support, please contact Saivishal Vempati at [vempatisaivishal@gmail.com](mailto:vempatisaivishal@gmail.com).
 
 ## Credits
 
 - Generative AI
 - Google Bard
-  
+
+Pulijala Sai Rahul
 Vempati Sai Vishal
-Narigiri Vaishnav
-Chitimella Praneeth
-M Shanmukh
+Mamilla Thanish kumar
+
 
 ---
