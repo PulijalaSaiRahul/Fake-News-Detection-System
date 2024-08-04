@@ -118,13 +118,13 @@ The entire project is centered around Natural Language Processing (NLP), leverag
 1. Clone the repository:
 
    ```bash
-      git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
+      git clone https://github.com/PulijalaSaiRahul/Fake-News-Detection-System.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd GlobalTruthHub
+   cd GFake-News-Detection-System
    pip install -r requirements.txt
    ```
 
